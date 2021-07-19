@@ -2,7 +2,7 @@
 
 [Magento 2 Configurable Product Matrix/Grid](https://www.ulmod.com/configurable-product-matrix-for-magento-2.html)  is a Magento 2 extension that allows you to display the default Magento 2 configurable options list in a clean matrix/grid table.
 
-With Magento 2 Configurable Product Matrix/Grid allows your buyers to add multiple items to the cart at once and order quickly
+With Magento 2 Configurable Product Matrix/Grid, your buyers can add one or multiple items to the cart at once and order quickly
 
 <a href="https://www.ulmod.com/configurable-product-matrix-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
